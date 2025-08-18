@@ -3,6 +3,8 @@
 A personalized birthday website built with **Vite + React** and styled using **Tailwind CSS**.  
 It features interactive elements like a countdown, itinerary timeline, birthday letter reveal, confetti celebration, and a Now/Next banner that updates live during the day.
 
+[Farhin's Birthday Website](https://farhinsbirthday.netlify.app/)
+
 ---
 
 ## Features
