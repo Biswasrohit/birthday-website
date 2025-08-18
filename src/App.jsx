@@ -26,6 +26,14 @@ export default function App() {
             >
               Notes
             </Link>
+            <Link
+              to="/gallery"
+              className={`hover:underline ${
+                pathname.startsWith("/gallery") && "font-semibold"
+              }`}
+            >
+              Gallery
+            </Link>
             <a
               className="link"
               href="#"
