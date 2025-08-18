@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 1.25rem;
+}
+
+.card {
+  @apply rounded-2xl shadow-soft bg-white p-5;
+}
+
+.badge {
+  @apply inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-roseAccent/10 text-roseAccent;
+}
+
+.h1 {
+  @apply font-display text-4xl md:text-5xl tracking-tight text-ink;
+}
+.h2 {
+  @apply font-display text-2xl md:text-3xl tracking-tight text-ink;
+}
+.p {
+  @apply text-sm md:text-base text-ink/80 leading-relaxed;
+}
+.link {
+  @apply text-roseAccent hover:underline;
+}
