@@ -86,13 +86,40 @@ export default function Landing() {
       <Countdown target={day} />
 
       <RevealLetter title="Open your birthday letter">
-        Today is a celebration of you and all the incredible moments we have
-        shared. Your kindness, strength, and spirit inspire me every day. I am
-        endlessly grateful for your presence in my life and for the joy you
-        bring to those around you. May this birthday be filled with warmth,
-        laughter, and the comfort of knowing how deeply you are loved and
-        appreciated. Here's to many more years of happiness and unforgettable
-        memories together.
+        Hi, my love,
+        <br />
+        <br />
+        I want to take this moment to tell you how much you mean to me. You’ve
+        become the person I look forward to every day, making even the quietest
+        moments feel meaningful.
+        <br />
+        <br />
+        You are hardworking in everything you do, and it inspires me constantly.
+        You’re so smart, and how you carry yourself daily makes me proud to be
+        with you. On top of that, you are caring in a way that makes me feel
+        seen and loved in ways I never thought possible.
+        <br />
+        <br />
+        What I love most is how empathetic you are to those around you. How you
+        notice others, understand them, and honestly care for their feelings
+        shows such a deep heart. I admire that more than I can put into words,
+        and I know that same empathy will make you a fantastic mother one day.
+        <br />
+        <br />
+        I also appreciate the food you make for me. It’s more than just
+        delicious; every meal shows the thought, effort, and care you put into
+        making me happy. It reminds me how lucky I am to share life with someone
+        who gives so much of herself in little everyday ways.
+        <br />
+        <br />
+        I want you to know I appreciate every bit of who you are. Every laugh,
+        smile, and thoughtful thing you do for me adds to something I couldn’t
+        imagine living without.
+        <br />
+        <br />
+        I’m so grateful to share this life with you, and I can’t wait for all
+        the moments still ahead of us. I love you more than I can ever fully put
+        into words.
       </RevealLetter>
 
       <section className="space-y-4">
